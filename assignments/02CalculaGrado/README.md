@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Escribe un programa en el cual definas la función calcula_grado(numero). Esta función debe recibir un número flotante entre 0 y 1, y debe regresar una nota alfabética de acuerdo a la siguiente tabla.
+Escribe un programa en el cual definas la función **calcula_grado(numero)**. Esta función debe recibir un número flotante entre 0 y 1, y debe regresar una nota alfabética de acuerdo a la siguiente tabla.
     Score               nota
     mayor a 0.9           A
     mayor a 0.8           B
