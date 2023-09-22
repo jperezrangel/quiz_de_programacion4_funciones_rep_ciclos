@@ -16,7 +16,7 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Modifica el programa para que haga lo siguiente:
 
-Realiza una **función** que reciba una cadena de caracteres y que indique cuántas oraciones terminadas por un punto hay. Utiliza un ciclo para practicar el tema.
+Realiza una **función** llamada oraciones(cadena) que reciba una cadena de caracteres y que indique cuántas oraciones terminadas por un punto hay. Utiliza un ciclo para practicar el tema.
 
 Manda a llamar a esta función en el main con datos del usuario. 
 
