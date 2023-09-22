@@ -31,7 +31,7 @@ Un número flotante entre 0 y 1.
 Salida
 La letra correspondiente al score asignado de acuerdo a la tabla de arriba.
 Si la entrada no está dentro del rango de 0 a 1 (inclusive), la función debe regresar la leyenda "score incorrecto"
-La función main( ) debe llamar a la función calcula_grado(valor) y debe desplegar el valor que retorna la función.
+La función main( ) debe llamar a la función calcula_grado(grado) y debe desplegar el valor que retorna la función.
 
 La salida del programa debe de ser exactamente de la siguiente forma:
 ```
