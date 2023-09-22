@@ -1,7 +1,6 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
 # Calcula Grado.
-Calcula Grado. 
-Funciones.
+Funciones, repeticiones, ciclos, estatuto if.
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
 
